@@ -1,0 +1,30 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(TM) Plus Graphics 640 (ID=0x5926)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4636
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\M_kin\Desktop\Roll A Ball\Build\Roll A Ball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\M_kin\Desktop\Roll A Ball\Build\Roll A Ball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\M_kin\Desktop\Roll A Ball\Build\Roll A Ball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\M_kin\Desktop\Roll A Ball\Build\Roll A Ball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\M_kin\Desktop\Roll A Ball\Build\Roll A Ball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\M_kin\Desktop\Roll A Ball\Build\Roll A Ball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\M_kin\Desktop\Roll A Ball\Build\Roll A Ball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\M_kin\Desktop\Roll A Ball\Build\Roll A Ball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\M_kin\Desktop\Roll A Ball\Build\Roll A Ball_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\M_kin\Desktop\Roll A Ball\Build\Roll A Ball_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.072 seconds
+Platform assembly: C:\Users\M_kin\Desktop\Roll A Ball\Build\Roll A Ball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\M_kin\Desktop\Roll A Ball\Build\Roll A Ball_Data\Managed\System.dll (this message is harmless)
+desktop: 2736x1824 59Hz; virtual: 2736x1824 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.100512 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 244c -> priority: 1 
+  Thread -> id: 2f54 -> priority: 1 
